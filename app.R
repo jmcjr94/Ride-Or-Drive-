@@ -88,7 +88,7 @@ ui <- fluidPage(
                           p("Team Members: Mikael Brunila, Jon Campbell, Maliha Tariq, Nathan Taylor.")
                         ),
                         mainPanel(
-                          includeMarkdown("project_outline.md")
+                          includeMarkdown("README.md")
                         )
                       )
              ),
